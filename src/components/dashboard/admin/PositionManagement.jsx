@@ -696,7 +696,7 @@ const PositionManagement = () => {
           >
             Close
           </Button>
-          <Button
+          {/* <Button
             variant="contained"
             color="primary"
             sx={{
@@ -705,7 +705,7 @@ const PositionManagement = () => {
             }}
           >
             View Applicants
-          </Button>
+          </Button> */}
         </DialogActions>
       </Dialog>
 
